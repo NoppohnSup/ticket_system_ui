@@ -1,0 +1,5 @@
+export const URL_TICKET = '/tickets'
+export const URL_REPORT = '/admin/report'
+export const URL_TICKET_TYPE_REPORT = '/admin/ticket_type_report'
+export const URL_LOGIN = '/auth/login'
+export const URL_MAIN = '/'
